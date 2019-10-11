@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Todos-hooks/static/js/main.c1e281db.chunk.js",
+    "main.js.map": "/Todos-hooks/static/js/main.c1e281db.chunk.js.map",
+    "runtime~main.js": "/Todos-hooks/static/js/runtime~main.a04dd1b9.js",
+    "runtime~main.js.map": "/Todos-hooks/static/js/runtime~main.a04dd1b9.js.map",
+    "static/js/2.d224efda.chunk.js": "/Todos-hooks/static/js/2.d224efda.chunk.js",
+    "static/js/2.d224efda.chunk.js.map": "/Todos-hooks/static/js/2.d224efda.chunk.js.map",
+    "index.html": "/Todos-hooks/index.html",
+    "precache-manifest.9c58930c94e38bce46de7f2e574b12e4.js": "/Todos-hooks/precache-manifest.9c58930c94e38bce46de7f2e574b12e4.js",
+    "service-worker.js": "/Todos-hooks/service-worker.js"
+  }
+}
